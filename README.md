@@ -2,7 +2,6 @@
     "explorer.confirmDelete": false,
     "workbench.iconTheme": "material-icon-theme",
     "terminal.integrated.fontSize": 14,
-    //configurando fonte 
     "editor.tabSize": 4,
     "editor.fontsize": 18,
     "editor.lineHeight": 24,
